@@ -1,1 +1,1 @@
-Davide test message 1
+This is my first piece of code and is a game related to a few basic questions about myself. I wanted to create a simple guessing game with with prompt's to store the user input into a separate variable for each question followed by a reply.
